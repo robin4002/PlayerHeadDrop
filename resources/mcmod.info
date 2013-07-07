@@ -1,0 +1,17 @@
+[
+{
+  "modid": "PlayerHead",
+  "name": "Player Head",
+  "description": "Allows players to drop their head when their dead",
+  "version": "1.0.0",
+  "mcversion": "",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["robin4002"],
+  "credits": "Just for fun",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
