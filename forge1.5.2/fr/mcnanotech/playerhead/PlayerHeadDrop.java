@@ -48,7 +48,7 @@ public class PlayerHeadDrop
         finally
 		{
         	if(cfg.hasChanged())
-        		cfg.load();
+        		cfg.save();
 		}
 	}
 	

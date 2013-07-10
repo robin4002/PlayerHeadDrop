@@ -47,7 +47,7 @@ public class PlayerHeadDrop
 		}
         finally
 		{
-        	cfg.load();
+        	cfg.save();
 		}
 	}
 	
