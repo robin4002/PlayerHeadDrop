@@ -1,10 +1,10 @@
 [
 {
-  "modid": "PlayerHeadDrop",
+  "modid": "playerheaddrop",
   "name": "Player Head Drop",
   "description": "Allows players to drop their head when their dead",
-  "version": "1.0.1",
-  "mcversion": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
   "logoFile": "",
   "url": "",
   "updateUrl": "",
